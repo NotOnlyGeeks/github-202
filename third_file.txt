@@ -1,1 +1,4 @@
-This is 3rd file
+This is 3rd file.
+New line
+
+changing in 3rd file
