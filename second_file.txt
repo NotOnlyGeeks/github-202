@@ -1,1 +1,4 @@
 Second file
+
+def print_hello():
+print_hello()
