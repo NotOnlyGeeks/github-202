@@ -6,3 +6,5 @@ new line 3
 new line 4
 
 New stash line
+
+New line to tag
